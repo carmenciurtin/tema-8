@@ -8,6 +8,7 @@ import java.time.Duration;
 
 public class DynamicButtonsSimpleTest extends BaseTest {
 
+
     @Test(description = "8.4")
     public void dynamicButtonsSimpleTest() {
         driver.findElement(By.cssSelector("a#button01")).click();
