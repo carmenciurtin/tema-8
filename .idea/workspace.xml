@@ -4,35 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a008c9b-5ec9-4758-8b70-0e136e4678fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/driver/WebdriverSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/driver/WebdriverSetMobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/BasicAjaxPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/BasicAjaxPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/DynamicButtonsDisabledTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/DynamicButtonsSimpleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/RedirectPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/RefreshPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testsForMobile/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testsForMobile/BasicAjaxPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testsForMobile/DynamicButtonsDisabledTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testsForMobile/DynamicButtonsSimpleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testsForMobile/RedirectPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testsForMobile/RefreshPageTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="7a008c9b-5ec9-4758-8b70-0e136e4678fa" name="Changes" comment="Grid-first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test_branch" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -44,18 +27,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/marce/IdeaProjects/carmen/Tema-8/src/test/java",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.40114942",
-    "settings.editor.selected.configurable": "build.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/carme/IdeaProjects/SELENIUM GRID/tema-8&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.40114942&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\marce\IdeaProjects\carmen\Tema-8\src\test\java" />
@@ -65,7 +48,7 @@
       <recent name="pageObjects" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.RefreshPageTest.refreshPageTest (1)">
+  <component name="RunManager" selected="TestNG.BasicAjaxPageTest.dropDownTest">
     <configuration name="BasicAjaxPageTest.dropDownTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Tema-8" />
       <extension name="coverage">
@@ -123,8 +106,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.RefreshPageTest.refreshPageTest (1)" />
-        <item itemvalue="TestNG.BasicAjaxPageTest.dropDownTest" />
         <item itemvalue="TestNG.RefreshPageTest.refreshPageTest" />
+        <item itemvalue="TestNG.BasicAjaxPageTest.dropDownTest" />
+        <item itemvalue="TestNG.RefreshPageTest.refreshPageTest (1)" />
+        <item itemvalue="TestNG.BasicAjaxPageTest.dropDownTest" />
       </list>
     </recent_temporary>
   </component>
@@ -137,6 +122,35 @@
       <option name="presentableId" value="Default" />
       <updated>1667314705422</updated>
     </task>
+    <task id="LOCAL-00001" summary="final commit">
+      <created>1667663829934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667663829934</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Grid-first commit">
+      <created>1667664459400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667664459400</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Grid-first commit">
+      <created>1667664582916</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667664582916</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Grid-first commit">
+      <created>1667664620748</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667664620748</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,10 +158,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Grid" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final commit" />
+    <MESSAGE value="Grid-first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Grid-first commit" />
   </component>
 </project>
