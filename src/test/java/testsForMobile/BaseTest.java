@@ -2,16 +2,18 @@ package testsForMobile;
 
 
 import driver.WebdriverSetMobile;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 
+import java.net.MalformedURLException;
+
 public abstract class BaseTest {
-    protected ChromeDriver driver = null;
+    protected RemoteWebDriver driver = null;
 
     @BeforeMethod
-    public void AccesareURL(){
-        driver = WebdriverSetMobile.getChromedriver();
+    public void AccesareURL() throws MalformedURLException {
+        driver = WebdriverSetMobile.getRemoteChromeDriver();
         driver.get("https://testpages.herokuapp.com/styled/index.html");
     }
 

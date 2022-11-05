@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a008c9b-5ec9-4758-8b70-0e136e4678fa" name="Changes" comment="">
+    <list default="true" id="7a008c9b-5ec9-4758-8b70-0e136e4678fa" name="Changes" comment="final commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/driver/WebdriverSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/driver/WebdriverSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/driver/WebdriverSetMobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/driver/WebdriverSetMobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testsForMobile/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testsForMobile/BaseTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +17,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -24,18 +33,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/marce/IdeaProjects/carmen/Tema-8/src/test/java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.40114942&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/carme/IdeaProjects/SELENIUM GRID/tema-8",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.40114942",
+    "settings.editor.selected.configurable": "build.tools"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\marce\IdeaProjects\carmen\Tema-8\src\test\java" />
@@ -45,7 +54,7 @@
       <recent name="pageObjects" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.BasicAjaxPageTest.dropDownTest">
     <configuration name="BasicAjaxPageTest.dropDownTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Tema-8" />
       <extension name="coverage">
@@ -117,6 +126,14 @@
       <option name="presentableId" value="Default" />
       <updated>1667314705422</updated>
     </task>
+    <task id="LOCAL-00001" summary="final commit">
+      <created>1667663829934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667663829934</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,10 +141,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Grid" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="final commit" />
   </component>
 </project>
